@@ -1,0 +1,43 @@
+/*
+ * CSS styles for template 1_1
+ */
+ 
+html {background: #f4f4f4; margin: 0;}
+ 
+.lp4_1 {width: 100%; max-width: 960px; margin: 20px auto; text-align: center; background-color: white; padding: 20px; border: 1px solid #ccc;}
+
+h1, h2, h3 {font-family: 'Roboto Slab', sans-serif; color: #353a3f;}
+h1 {font-weight: 700; font-size: 44px; margin: 0 20px 0.3em; line-height: 1.2em;}
+h2 {font-weight: 300; font-size: 20px; margin: 0 0 0.3em;}
+h3 {font-weight: 400; font-size: 22px; margin: 0 0 0.5em; color: #616161;}
+
+h4, h5 {font-family: 'Roboto', sans-serif;}
+h4 {font-weight: 500; font-style: italic; font-size: 18px; margin: 0 0 0.5em;}
+h5 {font-weight: 500; font-size: 18px;}
+
+body, p {font-family: 'Roboto', sans-serif; font-size: 1rem; font-weight: 300;}
+
+div {vertical-align: top;}
+
+ul li {margin: 0 0 0.2em;}
+
+#formfields {margin: 0 0 1em;}
+
+.lp-content {margin: 40px 0;}
+
+#contentwrapper {display: inline-block; width: 100%; max-width: 430px; text-align: left; padding: 0 25px 0 40px;}
+#productimage {display: inline-block; width: 100%; max-width: 400px; text-align: center; margin-left: 20px;}
+ #productimage img {max-width: 400px;}
+
+#formwrapper {display: block; width: auto; padding: 20px; margin: 0 20px; border: 2px solid #e6e6e6; background-color: #f6f6f6; border-radius: 3px;}
+#formcontent {width: 100%; max-width: 400px; display: inline-block; text-align: left;}
+ #formwrapper h3 {text-align: left; font-size: 28px; width: 100%; margin: 0 auto 0.6em;}
+.formslide {width: 100%; max-width: 400px; display: inline-block;} 
+
+#testimonial_first {margin: 2.5em 0;}
+#testimonial_last {margin: 2.5em 0;}
+  .testimonialbox {width: 100%; max-width: 420px; margin: 0 18px; display: inline-block; text-align: left;}
+  .testimonialbox:after {content: " "; clear: both;}
+   .testimonialbox img {float: left; width: 120px; margin-right: 20px; vertical-align: top; margin-top: 4px;}
+   .testimonialbox p {display: inline-block; margin: 0 0 1em; padding: 0; text-align: left; width: 259px;}
+    .testimonialbox p.testimonial_name {font-weight: 700;} 
